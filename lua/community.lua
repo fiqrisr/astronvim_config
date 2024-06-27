@@ -20,6 +20,7 @@ return {
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.html-css" },
+  { import = "astrocommunity.pack.java" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.prisma" },
   { import = "astrocommunity.pack.rainbow-delimiter-indent-blankline" },
@@ -27,5 +28,7 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.vue" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.recipes.vscode" },
   { import = "astrocommunity.recipes.vscode-icons" },
+  { import = "astrocommunity.utility.neodim" },
 }
