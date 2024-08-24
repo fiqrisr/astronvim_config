@@ -38,7 +38,7 @@ return {
         -- NOTE: `mapleader` and `maplocalleader` must be set in the AstroNvim opts or before `lazy.setup`
         -- This can be found in the `lua/lazy_setup.lua` file
         coq_settings = {
-          keymap = { jump_to_mark = "<c-h>" },
+          keymap = { jump_to_mark = "<c-0>" },
         },
       },
     },
