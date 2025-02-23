@@ -28,6 +28,7 @@ return {
   { import = "astrocommunity.lsp.lspsaga-nvim" },
   { import = "astrocommunity.motion.nvim-surround" },
   -- { import = "astrocommunity.pack.angular" },
+  { import = "astrocommunity.pack.astro" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.html-css" },
