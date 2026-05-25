@@ -11,6 +11,7 @@ return {
   -- import/override with your plugins folder
   -- { import = "astrocommunity.pack.astro" },
   -- { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.ai.opencode-nvim" },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.git.git-blame-nvim" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
@@ -27,6 +28,7 @@ return {
   -- { import = "astrocommunity.pack.vue" },
   { import = "astrocommunity.pack.yaml" },
   -- { import = "astrocommunity.recipes.auto-session-restore" },
+  { import = "astrocommunity.recipes.ai" },
   { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
   { import = "astrocommunity.recipes.vscode" },
   -- { import = "astrocommunity.recipes.vscode-icons" },
